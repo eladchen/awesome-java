@@ -1,7 +1,7 @@
 # awesome-java
 A curated list of awesome Java topics.
 
-## Specifications
+### Specifications
 https://jcp.org/en/jsr/all
 
 ##### Java Authentication and Authorization Service (JAAS): [JSR 375: Java EE 8 Security API](https://jcp.org/en/jsr/detail?id=375)
