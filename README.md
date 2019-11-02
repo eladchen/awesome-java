@@ -12,3 +12,4 @@ https://jcp.org/en/jsr/all
 - [How servlet containers all implement identity stores differently](https://arjan-tijms.omnifaces.org/2015/10/how-servlet-containers-all-implement.html)
 - [Java EE (Jakarta) examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
 - [Java EE Security in Relation to JASPIC, JACC, and LoginModules/Realms](https://dzone.com/articles/ee-security-in-relation-to-jaspic-jacc-and-loginmo)
+- [JAAS in Java EE is not the universal standard you may think it is](https://arjan-tijms.omnifaces.org/2014/02/jaas-in-java-ee-is-not-universal.html)
