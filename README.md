@@ -4,7 +4,7 @@ A curated list of awesome Java topics.
 ### Specifications
 https://jcp.org/en/jsr/all
 
-##### [JSR-375 (Java EE Security API)](https://jcp.org/en/jsr/detail?id=375) Java Authentication and Authorization Service or "JAAS"
+##### [JSR-375 (Java EE Security API)](https://javaee.github.io/security-spec) Java Authentication and Authorization Service or "JAAS"
 
 ##### [JSR-196](https://jcp.org/aboutJava/communityprocess/mrel/jsr196/index2.html) Java Authentication Service Provider Interface for Containers or "JASPIC"
 
