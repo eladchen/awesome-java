@@ -16,3 +16,9 @@ https://jcp.org/en/jsr/all
 - [Java EE (Jakarta) examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
 - [Java EE Security in Relation to JASPIC, JACC, and LoginModules/Realms](https://dzone.com/articles/ee-security-in-relation-to-jaspic-jacc-and-loginmo)
 - [Implementing container authentication in Java EE with JASPIC](https://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html)
+
+# REST APIs
+- [REST API - DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
+- [Introducing the PATCH method](https://craftsmen.nl/patching-jax-rs-3/)
+- [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
+- [Please. Don't Patch Like That](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
