@@ -19,6 +19,7 @@ https://jcp.org/en/jsr/all
 
 # REST APIs
 - [REST API - DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
+- [Representation - Domain Entity or Data Transfer Object](https://stackoverflow.com/q/38874746)
 - [Introducing the PATCH method](https://craftsmen.nl/patching-jax-rs-3/)
 - [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
 - [Please. Don't Patch Like That](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
