@@ -1,15 +1,17 @@
 # awesome-java
 A curated list of awesome Java topics.
 
-### Specifications
-https://jcp.org/en/jsr/all
+### Specifications (https://jcp.org/en/jsr/all)
+
+##### [JSR-196](https://jcp.org/aboutJava/communityprocess/mrel/jsr196/index2.html) Java Authentication Service Provider Interface for Containers or "JASPIC"
+- [JASPIC by Arjan Tijms](https://jaspic.zeef.com/arjan.tijms)
+
+##### [JSR-374 (Java API for JSON Processing 1.1)](https://jcp.org/en/jsr/detail?id=374)
+- [Overview of JSON Pointer](https://www.baeldung.com/json-pointer)
 
 ##### [JSR-375 (Java EE Security API)](https://javaee.github.io/security-spec) Java Authentication and Authorization Service or "JAAS"
 - [JAAS in Java EE is not the universal standard you may think it is](https://arjan-tijms.omnifaces.org/2014/02/jaas-in-java-ee-is-not-universal.html)
 - [JAAS Tutorials by Oracle](https://docs.oracle.com/en/java/javase/13/security/jaas-tutorials.html)
-
-##### [JSR-196](https://jcp.org/aboutJava/communityprocess/mrel/jsr196/index2.html) Java Authentication Service Provider Interface for Containers or "JASPIC"
-- [JASPIC by Arjan Tijms](https://jaspic.zeef.com/arjan.tijms)
 
 ### Miscellaneous
 - [How servlet containers all implement identity stores differently](https://arjan-tijms.omnifaces.org/2015/10/how-servlet-containers-all-implement.html)
