@@ -33,3 +33,4 @@ A curated list of awesome Java topics.
 - [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
 - [Please. Don't Patch Like That](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
 - [REST API Design Guideline: Resource Modeling](https://medium.com/@garrihovhannisyan/rest-api-guideline-resource-modeling-48e63807a1b3)
+- [Reusing DTO for request/response](https://stackoverflow.com/q/44349199)
