@@ -27,11 +27,12 @@ A curated list of awesome Java topics.
 - [Implementing container authentication in Java EE with JASPIC](https://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html)
 
 ### REST APIs
-- [REST API - DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
-- [Representation - Domain Entity or Data Transfer Object](https://stackoverflow.com/q/38874746)
+- [DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
+- [Is it bad to create different DTOs for REST request and response?](https://stackoverflow.com/q/37386758/1614199)
+- [Representation - Domain Entity or DTOs](https://stackoverflow.com/q/38874746)
+- [Reusing DTOs for request/response](https://stackoverflow.com/q/44349199)
+- [Input model is too general](https://stackoverflow.com/q/49451725)
 - [Introducing the PATCH method](https://craftsmen.nl/patching-jax-rs-3/)
-- [REST API - PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
+- [PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
 - [Please. Don't Patch Like That](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
-- [REST API Design Guideline: Resource Modeling](https://medium.com/@garrihovhannisyan/rest-api-guideline-resource-modeling-48e63807a1b3)
-- [Reusing DTO for request/response](https://stackoverflow.com/q/44349199)
-- [Rest API - Input model is too general](https://stackoverflow.com/q/49451725)
+- [Resource Modeling](https://medium.com/@garrihovhannisyan/rest-api-guideline-resource-modeling-48e63807a1b3)
