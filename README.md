@@ -25,6 +25,7 @@ A curated list of awesome Java topics.
 - [Java EE (Jakarta) examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
 - [Java EE Security in Relation to JASPIC, JACC, and LoginModules/Realms](https://dzone.com/articles/ee-security-in-relation-to-jaspic-jacc-and-loginmo)
 - [Implementing container authentication in Java EE with JASPIC](https://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html)
+- [Transitioning Jakarta EE to the jakarta namespace](https://www.eclipse.org/lists/jakartaee-platform-dev/msg00250.html)
 
 ### REST APIs
 - [DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
