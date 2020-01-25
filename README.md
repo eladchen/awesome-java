@@ -36,3 +36,6 @@ A curated list of awesome Java topics.
 - [PUT vs PATCH with real life examples](https://stackoverflow.com/a/34400076)
 - [Please. Don't Patch Like That](https://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
 - [Resource Modeling](https://medium.com/@garrihovhannisyan/rest-api-guideline-resource-modeling-48e63807a1b3)
+- [The Many Amazing Uses of JSON Schema: Client-side Validation](https://apisyouwonthate.com/blog/the-many-amazing-uses-of-json-schema-client-side-validation)
+- [JSON API, OpenAPI and JSON Schema Working in Harmony](https://apisyouwonthate.com/blog/json-api-openapi-and-json-schema-working-in-harmony)
+- [Creating Good API Errors in REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/creating-good-api-errors-in-rest-graphql-and-grpc)
