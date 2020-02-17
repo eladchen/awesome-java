@@ -9,9 +9,13 @@ A curated list of awesome Java topics.
 ##### [JSR-374](https://jcp.org/en/jsr/detail?id=374) Java API for JSON Processing 1.1
 - [Overview of JSON Pointer](https://www.baeldung.com/json-pointer)
 
-##### [JSR-375 (Java EE Security API)](https://javaee.github.io/security-spec) Java Authentication and Authorization Service or "JAAS"
+##### [JSR-375](https://javaee.github.io/security-spec) Java Authentication and Authorization Service or "JAAS" (Java EE Security API)
 - [JAAS in Java EE is not the universal standard you may think it is](https://arjan-tijms.omnifaces.org/2014/02/jaas-in-java-ee-is-not-universal.html)
 - [JAAS Tutorials by Oracle](https://docs.oracle.com/en/java/javase/13/security/jaas-tutorials.html)
+
+##### [JSR-380](https://jcp.org/en/jsr/detail?id=380) Java Bean Validation v2.0
+- [Bean Validation Specification](https://beanvalidation.org/2.0/spec/)
+- [Reference Implementation](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/)
 
 ##### JSR 374 & 375 examples:
  - [omnisecurity-jaspic-undertow](https://github.com/omnifaces/omnisecurity-jaspic-undertow/blob/master/src/main/java/org/omnifaces/security/JASPICAuthenticationMechanismX.java)
