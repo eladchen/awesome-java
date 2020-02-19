@@ -44,3 +44,5 @@ A curated list of awesome Java topics.
 - [The Many Amazing Uses of JSON Schema: Client-side Validation](https://apisyouwonthate.com/blog/the-many-amazing-uses-of-json-schema-client-side-validation)
 - [JSON API, OpenAPI and JSON Schema Working in Harmony](https://apisyouwonthate.com/blog/json-api-openapi-and-json-schema-working-in-harmony)
 - [Creating Good API Errors in REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/creating-good-api-errors-in-rest-graphql-and-grpc)
+- [Patching JAX-RS](https://github.com/dscheerens/patching-jax-rs)
+- [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
