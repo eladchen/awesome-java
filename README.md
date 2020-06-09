@@ -24,13 +24,6 @@ A curated list of awesome Java topics.
  - [wildfly](https://github.com/wildfly/wildfly/blob/master/undertow/src/main/java/org/wildfly/extension/undertow/security/JAASIdentityManagerImpl.java)
  - [jaspic-jaas-bridge](https://github.com/dstraub/jaspic-jaas-bridge)
 
-##### Miscellaneous
-- [How servlet containers all implement identity stores differently](https://arjan-tijms.omnifaces.org/2015/10/how-servlet-containers-all-implement.html)
-- [Java EE (Jakarta) examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
-- [Java EE Security in Relation to JASPIC, JACC, and LoginModules/Realms](https://dzone.com/articles/ee-security-in-relation-to-jaspic-jacc-and-loginmo)
-- [Implementing container authentication in Java EE with JASPIC](https://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html)
-- [Transitioning Jakarta EE to the jakarta namespace](https://www.eclipse.org/lists/jakartaee-platform-dev/msg00250.html)
-
 ### REST APIs
 - [DTOs or not?](https://stackoverflow.com/questions/36174516/rest-api-dtos-or-not)
 - [Is it bad to create different DTOs for REST request and response?](https://stackoverflow.com/q/37386758/1614199)
@@ -46,3 +39,14 @@ A curated list of awesome Java topics.
 - [Creating Good API Errors in REST, GraphQL and gRPC](https://apisyouwonthate.com/blog/creating-good-api-errors-in-rest-graphql-and-grpc)
 - [Patching JAX-RS](https://github.com/dscheerens/patching-jax-rs)
 - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
+
+### Persistence
+- [Separate domain model and the persistence layer](https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model)
+- [Encapsulating Data Access Layer](https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal)
+
+##### Miscellaneous
+- [How servlet containers all implement identity stores differently](https://arjan-tijms.omnifaces.org/2015/10/how-servlet-containers-all-implement.html)
+- [Java EE (Jakarta) examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples)
+- [Java EE Security in Relation to JASPIC, JACC, and LoginModules/Realms](https://dzone.com/articles/ee-security-in-relation-to-jaspic-jacc-and-loginmo)
+- [Implementing container authentication in Java EE with JASPIC](https://arjan-tijms.omnifaces.org/2012/11/implementing-container-authentication.html)
+- [Transitioning Jakarta EE to the jakarta namespace](https://www.eclipse.org/lists/jakartaee-platform-dev/msg00250.html)
