@@ -17,7 +17,7 @@ A curated list of awesome Java topics.
 - [Bean Validation Specification](https://beanvalidation.org/2.0/spec/)
 - [Reference Implementation](https://docs.jboss.org/hibernate/stable/validator/reference/en-US/html_single/)
 
-##### JSR 374 & 375 examples:
+##### JSR 375 examples:
  - [omnisecurity-jaspic-undertow](https://github.com/omnifaces/omnisecurity-jaspic-undertow/blob/master/src/main/java/org/omnifaces/security/JASPICAuthenticationMechanismX.java)
  - [javaee6-auth-example (JASPIC with ServerAuthModule or "SAM")](https://github.com/arjantijms/javaee6-auth-example)
  - [elytron-examples](https://github.com/wildfly-security-incubator/elytron-examples)
