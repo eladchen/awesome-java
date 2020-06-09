@@ -41,7 +41,7 @@ A curated list of awesome Java topics.
 - [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
 ### Persistence
-- [Separate domain model and the persistence layer](https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model)
+- [Separating domain model and persistence model](https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model)
 - [Encapsulating Data Access Layer](https://ayende.com/blog/4567/the-false-myth-of-encapsulating-data-access-in-the-dal)
 
 ##### Miscellaneous
